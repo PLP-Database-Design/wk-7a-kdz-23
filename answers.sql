@@ -5,7 +5,7 @@
 -- Each column should have atomic values
 
 
-In 1NF, each cell must have atomic (single) values — no multiple values in one cell.
+-- In 1NF, each cell must have atomic (single) values — no multiple values in one cell.
 
 CREATE TABLE ProductDetail_1NF (
     OrderID INT,
